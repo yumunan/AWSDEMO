@@ -1,6 +1,6 @@
 package com.virtualBank.card.vo;
 
-public class StandLoanAdd {
+public class StandLoanAddRq {
     String cardNo;
     String DestinationAccountNo;
     String bankCode;
